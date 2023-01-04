@@ -45,10 +45,14 @@
 
 
 body {
+    
+    height: 100vh;
     background-image: var(--bg-url);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
-    background-position:  top center;
+    background-position:center;
+    background-attachment: fixed;
+    overflow: hidden;
         
 }
 
