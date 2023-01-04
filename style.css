@@ -96,7 +96,6 @@ body {
     height: 24px;
     background: var(--bg-info);
     border: 1px solid var(--text-color-info-border);
-    -webkit-backdrop-filter: blur(4px);
     border-radius: 9999px;
 
     
